@@ -30,7 +30,6 @@ This project focuses on predicting severe convective storms using deep learning 
 * Python
 * PyTorch
 * Google Colab
-* Kaggle (for high RAM training)
 
 ##  Evaluation Metrics
 
@@ -42,7 +41,7 @@ This project focuses on predicting severe convective storms using deep learning 
 
 ## Author
 
-Shiva Kumar
+Shivakumar Vadde
 
 ##  Future Improvements
 
